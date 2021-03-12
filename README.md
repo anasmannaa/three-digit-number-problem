@@ -1,4 +1,4 @@
-# three-digit-number-problem
+Three Digit Number Problem Solution
 A Java program to create and display unique three-digit number using 1, 2, 3, 4. Also counts how many three-digit numbers are there
  
 ## Expected Output
